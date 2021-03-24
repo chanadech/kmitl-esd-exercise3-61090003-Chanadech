@@ -1,10 +1,9 @@
 #Overview
-This module is about "model" which including as follows:
 
-Variable:
-* id - unique id for the customer
-* name - name of customer
-* age - age of customer
+This is the model which use in the server.
 
-Method:
-* toString - print customer's detail
+CustomerDTO
+
+- id
+- name
+- ageil
